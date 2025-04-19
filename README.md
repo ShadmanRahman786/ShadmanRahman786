@@ -23,10 +23,12 @@
 Languages: Python, C, SQL, JavaScript
 Frameworks: PyTorch, OpenCV, React
 Tools: Git, Power BI, MySQL, Google Colab, Jupyter
-Concepts: Deep Learning, CNNs, Data Visualization, Statistics, Explainable AI (XAI)
+Concepts: Deep Learning, CNNs, Data Visualization, Statistics, Explainable AI (XAI)###
+
+### 📊 GitHub Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 📫 Reach Me
