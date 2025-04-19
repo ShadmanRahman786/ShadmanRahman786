@@ -37,7 +37,7 @@
 
   <b>⚡ Fun Fact:</b><br>
   <i>I’m all about consistency, leveling up, and staying locked in.<br>
-  Catch me debugging life, one line at a time 💻🔥</i><br><br>
+  💻🔥</i><br><br>
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
