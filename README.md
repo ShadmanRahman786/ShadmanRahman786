@@ -30,7 +30,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=github_dark&hide_border=true" /><br><br>
-### 📫 Contact
+  
+###  📫 Contact
   <b>📧 Email:</b> <a href="mailto:shadman.rahman.sameen@g.bracu.ac.bd">shadman.rahman.sameen@g.bracu.ac.bd</a> / <a href="mailto:shadman.rahman.sameen@gmail.com">shadman.rahman.sameen@gmail.com</a><br>
   <b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/shadman-rahman-sameen-1067632b8">Shadman Rahman Sameen</a><br>
   <b>🐱 GitHub:</b> <a href="https://github.com/ShadmanRahman786">@ShadmanRahman786</a><br><br>
