@@ -41,11 +41,6 @@
 
 ---
 
-<h2 align="center">📈 Custom Bar Chart</h2>
-
-<p align="center">
-  <img src="https://your-image-host.com/language_usage_chart.png" alt="Custom GitHub Language Usage Chart" />
-</p>
   
 ###  📫 Contact
   <b>📧 Email:</b> <a href="mailto:shadman.rahman.sameen@g.bracu.ac.bd">shadman.rahman.sameen@g.bracu.ac.bd</a> / <a href="mailto:shadman.rahman.sameen@gmail.com">shadman.rahman.sameen@gmail.com</a><br>
