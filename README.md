@@ -36,7 +36,8 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,c,java,sql,react,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,java,react,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
 
 ---
