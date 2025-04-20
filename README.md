@@ -28,17 +28,15 @@
 
 ### 📊 GitHub Stats  
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,c,java,sql,react,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,java,sql,react,vscode" />
 </p>
 
 ---
