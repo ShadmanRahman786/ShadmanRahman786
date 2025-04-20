@@ -29,7 +29,13 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=github_dark&hide_border=true" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,html,css,sql,opencv,pytorch" />
+</p> <br><br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,html,css,sql,opencv,pytorch" />
+</p>
+<br><br><br>
   
 ###  📫 Contact
   <b>📧 Email:</b> <a href="mailto:shadman.rahman.sameen@g.bracu.ac.bd">shadman.rahman.sameen@g.bracu.ac.bd</a> / <a href="mailto:shadman.rahman.sameen@gmail.com">shadman.rahman.sameen@gmail.com</a><br>
