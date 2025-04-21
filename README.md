@@ -13,7 +13,7 @@
 - 🧠 Working on a thesis related to **Neurodegenerative Disease Detection** using CNNs & Explainable AI  
 - 🔍 Learning and building projects in **Computer Vision**, **Deep Learning**, and **Data Analytics**  
 - 📊 Experienced with data preprocessing, model training, visualization, and statistical analysis  
-- 🌎 On a mission to build impactful, future-ready tech solutions  
+
 
 ---
 
