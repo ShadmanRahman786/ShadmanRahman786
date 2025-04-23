@@ -28,23 +28,49 @@
 
 ### 📊 GitHub Stats  
 
-<div style="display: flex; justify-content: center; padding: 2rem; background: #0f172a;">
-  <div style="
-    background: linear-gradient(135deg, #1e293b, #0f172a);
-    padding: 1.5rem;
-    border-radius: 1rem;
-    box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 40px rgba(0, 255, 255, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(0, 255, 255, 0.1)';">
-    <a href="https://github.com/ShadmanRahman786" target="_blank" style="text-decoration: none;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" 
-        alt="Top Languages by Shadman" 
-        style="border-radius: 12px; max-width: 100%; height: auto; display: block;"
-      />
-    </a>
-  </div>
-</div>
+<canvas id="barChart" height="250"></canvas>
+
+<script>
+  const barCtx = document.getElementById('barChart').getContext('2d');
+  const barChart = new Chart(barCtx, {
+    type: 'bar',
+    data: {
+      labels: ['Python', 'C', 'SQL', 'React', 'JavaScript'],
+      datasets: [{
+        label: 'Proficiency (%)',
+        data: [90, 85, 80, 75, 70],
+        backgroundColor: '#0ea5e9',
+        borderRadius: 6
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      scales: {
+        x: {
+          ticks: {
+            color: '#fff'
+          },
+          grid: {
+            color: 'rgba(255,255,255,0.1)'
+          }
+        },
+        y: {
+          ticks: {
+            color: '#fff'
+          },
+          grid: {
+            color: 'rgba(255,255,255,0.1)'
+          }
+        }
+      },
+      plugins: {
+        legend: {
+          display: false
+        }
+      }
+    }
+  });
+</script>
 
 ---
 
