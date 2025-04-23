@@ -30,47 +30,9 @@
 
 <canvas id="barChart" height="250"></canvas>
 
-<script>
-  const barCtx = document.getElementById('barChart').getContext('2d');
-  const barChart = new Chart(barCtx, {
-    type: 'bar',
-    data: {
-      labels: ['Python', 'C', 'SQL', 'React', 'JavaScript'],
-      datasets: [{
-        label: 'Proficiency (%)',
-        data: [90, 85, 80, 75, 70],
-        backgroundColor: '#0ea5e9',
-        borderRadius: 6
-      }]
-    },
-    options: {
-      indexAxis: 'y',
-      scales: {
-        x: {
-          ticks: {
-            color: '#fff'
-          },
-          grid: {
-            color: 'rgba(255,255,255,0.1)'
-          }
-        },
-        y: {
-          ticks: {
-            color: '#fff'
-          },
-          grid: {
-            color: 'rgba(255,255,255,0.1)'
-          }
-        }
-      },
-      plugins: {
-        legend: {
-          display: false
-        }
-      }
-    }
-  });
-</script>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
