@@ -28,9 +28,15 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/ShadmanRahman786" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Top Languages used by ShadmanRahman786" 
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" 
+    />
+  </a>
+</div>
 
 ---
 
