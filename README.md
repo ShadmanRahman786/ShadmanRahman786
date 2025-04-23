@@ -28,14 +28,22 @@
 
 ### 📊 GitHub Stats  
 
-<div align="center">
-  <a href="https://github.com/ShadmanRahman786" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" 
-      alt="Top Languages used by ShadmanRahman786" 
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" 
-    />
-  </a>
+<div style="display: flex; justify-content: center; padding: 2rem; background: #0f172a;">
+  <div style="
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 30px rgba(0, 255, 255, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'; this.style.boxShadow='0 0 40px rgba(0, 255, 255, 0.3)';" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(0, 255, 255, 0.1)';">
+    <a href="https://github.com/ShadmanRahman786" target="_blank" style="text-decoration: none;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadmanRahman786&layout=compact&theme=tokyonight&hide_border=true" 
+        alt="Top Languages by Shadman" 
+        style="border-radius: 12px; max-width: 100%; height: auto; display: block;"
+      />
+    </a>
+  </div>
 </div>
 
 ---
