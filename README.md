@@ -9,10 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year **CSE student** at BRAC University (Dhaka, Bangladesh)  
-- 🧠 Working on a thesis related to **Neurodegenerative Disease Detection** using CNNs & Explainable AI  
-- 🔍 Learning and building projects in **Computer Vision**, **Deep Learning**, and **Data Analytics**  
-- 📊 Experienced with data preprocessing, model training, visualization, and statistical analysis  
+- 🎓 Recently completed my **BSc in Computer Science and Engineering** from **BRAC University**, Dhaka  
+- 🧠 Successfully defended thesis on **Neurodegenerative Disease Detection** using CNN & Explainable AI  
+- 🔍 Focused on **Computer Vision**, **Deep Learning**, and **Data Analytics** with hands-on projects  
+- 🛠 Skilled in preprocessing, modeling, statistical analysis, and data visualization  
+- 💼 Open to AI/Data related roles to gain real-world impact before grad school  
 
 
 ---
